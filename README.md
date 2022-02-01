@@ -1,2 +1,3 @@
 # ReadMe2.md
- This project created by Amad&lt This is for JWA batch 
+ This project created by Amad
+ This is for JWA batch 
